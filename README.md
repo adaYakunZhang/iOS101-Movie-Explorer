@@ -82,8 +82,7 @@ Movie Explorer is an intuitive and engaging app designed for movie enthusiasts. 
 
 ## Wireframes
 
-![](file:///Users/eszyk/Downloads/IMG_9037.JPG)
-<img src="file:/Users/eszyk/Downloads/IMG_9037.JPG" width=600>
+![](IMG_9037.JPG)
 
 ### [BONUS] Digital Wireframes & Mockups
 
