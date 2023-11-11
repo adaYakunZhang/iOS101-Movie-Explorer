@@ -9,6 +9,7 @@ Original App Design Project
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Sprint Management](#Sprint)
 
 ## Overview
 
@@ -101,3 +102,9 @@ Movie Explorer is an intuitive and engaging app designed for movie enthusiasts. 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Sprint Managment
+### Sprint 1
+Not too much progress, might change to use SwiftUI for a better display of views.
+https://www.loom.com/share/8d86ea620da94c34b9884e7c58903e1f?sid=8b131850-f24b-4901-8a2a-9a4550bee016
+
