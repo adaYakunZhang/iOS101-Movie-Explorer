@@ -1,8 +1,6 @@
 //
 //  AppDelegate.swift
-//  movie-explorer
-//
-//  Created by ESZYK on 11/10/23.
+//  ios101-lab6-flix
 //
 
 import UIKit
