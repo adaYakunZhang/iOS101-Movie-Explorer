@@ -91,17 +91,19 @@ Movie Explorer is an intuitive and engaging app designed for movie enthusiasts. 
 
 ## Schema 
 
-[This section will be completed in Unit 9]
 
 ### Models
 
-[Add table of models]
+Movies. See my Movie.swift file.
 
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+OMDB API:
+ - GET Upcoming
+ - GET Now Playing
+ - GET Top Rated
+ - GET Popular
+ - GET Search Query
 
 ## Sprint Managment
 ### Sprint 1
