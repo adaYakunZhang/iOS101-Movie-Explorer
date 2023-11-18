@@ -50,16 +50,16 @@ Movie Explorer is an intuitive and engaging app designed for movie enthusiasts. 
 
 ### 2. Screen Archetypes
 
-- [ ] **Movie List / Home Screen**
+- [x] **Movie List / Home Screen**
 * User can view list of movies according to different categories, such as "Now Playing", "Upcoming", "Top Rated", Popular", etc.
-- [ ] **Search**
+- [x] **Search**
 * User can search for movies
-- [ ] **Detail**
+- [x] **Detail**
 * User can view detailed information of a movie
 * User can add movie to the favourites of "my movies"
 * User can add movie to the watched of "my movies"
 * User can add movie to the planning to watch of "my movies"
-- [ ] **My Movies**
+- [x] **My Movies**
 * User can update the status of the movie from "my movies"
 
 ### 3. Navigation
@@ -72,13 +72,13 @@ Movie Explorer is an intuitive and engaging app designed for movie enthusiasts. 
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Home / Movie List Screen
+- [x] Home / Movie List Screen
 * Detail Screen
-- [ ] Detail Screen
+- [x] Detail Screen
 * None
-- [ ] Search Screen
+- [x] Search Screen
 * Detail Screen (after tab on the searched result)
-- [ ] My Movies Screen
+- [x] My Movies Screen
 * Detail Screen (after tab on one of my movies)
 
 ## Wireframes
@@ -108,3 +108,6 @@ Movie Explorer is an intuitive and engaging app designed for movie enthusiasts. 
 Not too much progress, might change to use SwiftUI for a better display of views.
 https://www.loom.com/share/8d86ea620da94c34b9884e7c58903e1f?sid=8b131850-f24b-4901-8a2a-9a4550bee016
 
+### Sprint 2
+All required features completed. Did some Ui adjustements so it looks not exactly the same as Wireframes.
+https://www.youtube.com/watch?v=4peMSoSOibk
